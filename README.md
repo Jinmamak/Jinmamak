@@ -15,13 +15,13 @@ Building AI-powered tools that solve real problems
 
 ## 🚀 What I'm Building
 
-**[Found.It](https://github.com/yourusername/found-it)** - AI semantic search engine  
+**[Found.It](https://github.com/UnknownHacker1/Found.it)** - AI semantic search engine  
 *Hackathon Finalist* • Indexes 47k+ files across 60+ formats using transformers & FAISS
 
-**[Stockly](https://github.com/yourusername/stockly)** - Real-time stock analysis  
+**[Stockly](https://github.com/Hossam-Ismail/Stock-Extension)** - Real-time stock analysis  
 Chrome extension with AI sentiment scoring • 5+ API integrations • PostgreSQL backend
 
-**ML Stock Forecasting** - Predictive analytics system  
+**[ML Stock Forecasting](https://github.com/Jinmamak/Stocks-Data-Dashboard)** - Predictive analytics system  
 85%+ accuracy using Random Forest • 1000+ Monte Carlo simulations
 
 ---
