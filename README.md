@@ -61,18 +61,6 @@ Chrome extension with AI sentiment scoring • 5+ API integrations • PostgreSQ
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jinmamak&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jinmamak&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## 🎯 Currently
 
 - 🔭 Building **Found.It** - AI semantic search for desktop files
@@ -92,7 +80,7 @@ Looking for Summer 2026 software engineering internships in:
 
 Open to opportunities at startups, FAANG, or anywhere building cutting-edge tech.
 
-**[Email me](mailto:riad.benyamna2020@gmail.com)** • **[LinkedIn](https://linkedin.com/in/riad-benyamna)** • **[Resume](link-to-resume)**
+**[Email me](mailto:riad.benyamna2020@gmail.com)** • **[LinkedIn](https://linkedin.com/in/riad-benyamna)**
 
 ---
 
